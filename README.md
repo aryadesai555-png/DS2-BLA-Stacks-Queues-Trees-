@@ -155,3 +155,89 @@ The inorder traversal of a Binary Search Tree produces the values in sorted orde
 
 10 20 35 40 30 55 65 60 75 90 80 70 50
 
+## Real-World Applications
+
+### Stack
+
+- Function calls
+- Undo and redo operations
+- Browser navigation
+- Expression evaluation
+
+### Queue
+
+- Print queues
+- Scheduling systems
+- Customer service systems
+- Network packet processing
+
+### Binary Tree
+
+- File system organization
+- Organizational hierarchies
+- HTML and XML document structures
+
+### Binary Search Tree
+
+- Searching ordered data
+- Maintaining sorted information
+- Data lookup and indexing
+
+## Testing
+
+The C++ programs were compiled and tested on macOS.
+
+The testing includes:
+
+- Normal Stack operations
+- Stack overflow
+- Stack underflow
+- Queue operations
+- Circular Queue wrap-around
+- BST insertion
+- Duplicate detection
+- Inorder traversal
+- Preorder traversal
+- Postorder traversal
+
+## Diagrams
+
+Original diagrams created for this lab are included in the `diagrams` folder.
+
+The diagrams cover:
+
+1. Stack Push and Pop
+2. Queue Enqueue and Dequeue
+3. Circular Queue Wrap-Around
+4. Binary Tree Terminology
+5. Completed Binary Search Tree
+6. Inorder Traversal
+7. Preorder Traversal
+8. Postorder Traversal
+
+## YouTube Video
+
+**YouTube Link:** ADD LINK HERE
+
+## References
+
+1. Virginia Tech OpenDSA — Stack and Queue  
+https://opendsa-server.cs.vt.edu/ODSA/Books/CS3S26slides/html/StackQueue.html
+
+2. Virginia Tech OpenDSA — Queue Concepts  
+https://opendsa-server.cs.vt.edu/ODSA/Books/CS3S26slides/html/Queue.html
+
+3. Virginia Tech OpenDSA — Binary Search Trees  
+https://opendsa-server.cs.vt.edu/ODSA/Books/CS3S26slides/html/BST.html
+
+4. Virginia Tech OpenDSA — Binary Trees  
+https://opendsa-server.cs.vt.edu/ODSA/Books/CS3S26slides/html/BinaryTree.html
+
+5. cppreference — C++ Arrays  
+https://cppreference.com/book/arrays.html
+
+6. cppreference — C++ Pointers  
+https://en.cppreference.com/w/cpp/language/pointer
+
+These sources were used for background concepts. The examples, diagrams, code, dataset, and testing included in this repository were created for this lab.
+
