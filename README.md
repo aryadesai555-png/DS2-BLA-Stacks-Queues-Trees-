@@ -124,7 +124,34 @@ The duplicate occurrences were detected and ignored.
 
 After removing the duplicate occurrences, the values inserted in their original order are:
 
-```text
 50 30 70 20 40 60 80 10 35 65 90 55 75
 
+### BST Information
+
+- **Root:** 50
+- **Predecessor of 50:** 40
+- **Successor of 50:** 55
+- **Leaf nodes:** 10, 35, 55, 65, 75, 90
+
+## Tree Traversals
+
+### Inorder Traversal
+
+**Left → Root → Right**
+
+10 20 30 35 40 50 55 60 65 70 75 80 90
+
+The inorder traversal of a Binary Search Tree produces the values in sorted order.
+
+### Preorder Traversal
+
+**Root → Left → Right**
+
+50 30 20 10 40 35 70 60 55 65 80 75 90
+
+### Postorder Traversal
+
+**Left → Right → Root**
+
+10 20 35 40 30 55 65 60 75 90 80 70 50
 
