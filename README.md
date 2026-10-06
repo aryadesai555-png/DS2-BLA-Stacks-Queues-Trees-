@@ -217,7 +217,9 @@ The diagrams cover:
 
 ## YouTube Video
 
-**YouTube Link:** ADD LINK HERE
+**YouTube Link:** https://youtu.be/WNuSriL4d7w?si=e_kZ1qJ7EwBMzDsG
+https://youtu.be/-PLVUFfuG5Q?si=pJf3r_2VEJQI8TzA
+https://youtu.be/4VpSRogZ1b0?si=PB3xOL2SaZYly7l-
 
 ## References
 
